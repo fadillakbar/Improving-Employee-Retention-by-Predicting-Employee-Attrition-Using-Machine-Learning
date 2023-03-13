@@ -1,1 +1,2 @@
 # Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning
+I presented descriptive findings through a machine learning approach using data visualization and data storytelling to help companies explain the current state of their employees. To identify patterns and trends in employee behavior and attitudes, I utilized data analysis and machine learning techniques. Furthermore, I provided insights and recommendations to the company to improve employee retention, morale, and performance.
